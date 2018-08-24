@@ -71,6 +71,7 @@ CGSS.push(NRCGuess);
 }
 // SO THAT INFO CONNECTS WITH HTML
 
+
 var html = "<p>Guess the Letter!</p> " +
           "<p>Victories: " + Victories + "</p>" +
           "<p>Defeats: " + Defeats + "</p>" +
